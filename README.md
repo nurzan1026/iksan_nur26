@@ -1,17 +1,27 @@
-<h1 align="center">Hi 👋, I'm M NUR ICHSAN IN</h1>
-<h3 align="center">i am frond-end web developer</h3>
+<p align="center">
+  <img width="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhkaGgya2t2anlsbms1MnZnMzVqbXNha3Nqd216NXJybnZxNWtqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+</p>
+  <br><br>
+<h1 align="center" >Hi 👋, I'm M NUR ICHSAN IN</h1>
 
+<h2 align="center">I a'm Frond-End Web Developer</h2>
+  <img
+      align="right"
+      width="500"
+      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQyZnBub2hkY2J3YXpydDJ6anpkcmR0aGdmbmp4OGh5eW03cGI0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+      alt=""
+    />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurzan1026&label=Profile%20views&color=0e75b6&style=flat" alt="nurzan1026" /> </p>
 
 - 🌱 I’m currently learning **Javacsript, TailwindCss, ReactJs,Node Js**
 
-- 👨‍💻 All of my projects are available at [bit.ly/m-nur-ichsan-in](bit.ly/m-nur-ichsan-in)
+- 👨‍💻 My Profile Link [bit.ly/m-nur-ichsan-in](bit.ly/m-nur-ichsan-in)
 
-- 💬 Ask me about **Html, Css, Javascript, TailwindCss**
+- 💬 Ask me about **html, Css, Javascript, TailwindCss**
 
 - 📫 How to reach me **muh.iksank102602@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
